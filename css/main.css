@@ -1,0 +1,29 @@
+* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
+html, body {
+    background: #1c1c1c;
+    height: 100%;
+    width: 100%;
+}
+
+#container {
+    background: #1c1c1c;
+    bottom: 0;
+    height: 100%;
+    left: 0;
+    margin: auto;
+    max-height: 288px;
+    max-width: 384px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+}
+
+#canvas {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
