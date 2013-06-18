@@ -1,7 +1,7 @@
-EaselJS-Tiles
+CreateJS-Tiles
 =============
 
-Basic tile maps using EaselJS.
+Basic tile maps using CreateJS.
 
 This was a learning excerise in building simple tile maps using EaselJS. These are heavily based on TonyPa's old Flash tutorials at http://www.tonypa.pri.ee/tbw/index.html of which I suggest you look through as they cover more aspects than what I play with here. Most of the code for those Flash tutorials are probably out of style and considered outdated but it's fun to look how things were done around the Flash 5 days. Needless to say I didn't follow everything in the Flash versions for my code.
 
