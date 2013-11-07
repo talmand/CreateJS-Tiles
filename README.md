@@ -36,6 +36,10 @@ This is not much different than tut03 except that it has a much larger tile arra
 
 This adds in some basic AI characters to the map. They use the same collision detection as the player which has been placed in its own checkCorners function. An addEnemy function was added that's similar to the addPlayer function. The enemyBrain function controls the thinking of the enemy characters. It simply tells the enemy to walk forward until it hits a wall and then randomly picks another direction to move. To build on this randomness there's a timer that forces the enemy to pick a different random direction every five seconds. If the enemy gets within a certain distance of the player it will attempt to approach and if getting there stops walking. It's not the brightest and gets stuck on corners easily but it works decently enough.
 
+### tut06
+
+An experiement in making a basic lighting system by altering the alpha of the tiles and enemies based on distance from the player.
+
 License
 -------
 
