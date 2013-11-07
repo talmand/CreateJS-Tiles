@@ -38,7 +38,7 @@ This adds in some basic AI characters to the map. They use the same collision de
 
 ### tut06
 
-An experiement in making a basic lighting system by altering the alpha of the tiles and enemies based on distance from the player.
+An experiment in making a basic lighting system by altering the alpha of the tiles and enemies based on distance from the player.
 
 License
 -------
